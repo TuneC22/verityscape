@@ -10,10 +10,12 @@ I am not associated with ThatMob or Nullscape devs in any way, it's just a littl
 - mart sprite
 - bigger marts curse icon
 - mart slide curse icon
-- mart slide sprites
-- plush mart sprites
-- plush mart slide sprites
-- mart tutorial
+- mart slide sprite
+- mart tutorial animation
+
+There is also **AI generated plush verity sprites**. I did it because there was no 5 images of identical verity plush in 5 different angles anywhere, so there's that. Nobody will actually see this sprite every other game, cuz plush mart by itself is a rarity to see, so i didn't think it was worth the time.
+- plush mart sprite
+- plush mart slide sprite
 
 ##### ICBM - slight resprite of the original with yellow tint and verity face, including:
 - ICBM icon
@@ -32,15 +34,20 @@ I am not associated with ThatMob or Nullscape devs in any way, it's just a littl
 - verity spawn
 - verity knight indicator
 
+---
+
 ## Installation tutorial
 To actually play the mod you'll need Fleasion - an application for roblox used to replace images, models, audio etc. It's safe and won't get your account banned, if you're interested you can check Fleasion github page for more info.
 
-1. Download verityscape.json (from this repository)
-2. Download Fleasion from official github repository (https://github.com/fleasion/fleasion)
-3. Open Fleasion, look in the bottom right corner and press "Open Configs" button
-4. Place verityscape.json in the opened folder
-5. Return to Fleasion, select verityscape in the "Enabled" dropdown list (top left corner)
-6. Press "Clear Cache" in the bottom right corner, you will have to do this everytime you make a change in configuration
+1. Download `verityscape.json` (from this repository)
+2. Download **Fleasion** from official github repository (https://github.com/fleasion/fleasion)
+3. Open **Fleasion**, look in the bottom right corner and press **"Open Configs"** button
+4. Place `verityscape.json` in the opened folder
+5. Return to **Fleasion**, select **verityscape** in the **"Enabled"** dropdown list (top left corner)
+6. Press **"Clear Cache"** in the bottom right corner, you will have to do this __everytime__ you make a change in configuration
 7. Congrats, you can now play nullscape with verity!
 
 ---
+
+## Quick configuration tutorial
+You can change the state of any of the sprites, for this just press **RMB** on a desired profile and press **Disable Profile**
