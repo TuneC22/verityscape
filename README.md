@@ -7,6 +7,8 @@ I am not associated with **ThatMob** or **Nullscape dev team** in any way, all t
 ---
 
 ## What's inside
+Verityscape is a really dumb little idea i had once. And so there is verity in nullscape, yay! don't think of it as something big, just small funny little tweaks :)
+
 ##### MART - replaced by verity, including:
 - mart icon
 - mart sprite
