@@ -1,0 +1,241 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "VERITY ICBM",
+      "expanded": true,
+      "children": [
+        {
+          "name": "ICBM icon",
+          "replace_ids": [
+            127474579216707
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/1qwLFUKDnT.png"
+        },
+        {
+          "name": "ICBM indicator",
+          "replace_ids": [
+            134374626818915
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/J5rConDgsJ.png"
+        },
+        {
+          "name": "ICBM indicator (2 stack bigger blast)",
+          "replace_ids": [
+            138798994394624
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/xAPaIbWKU_.png"
+        },
+        {
+          "name": "ICBM indicator (1 stack bigger blast)",
+          "replace_ids": [
+            75966936005003
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/epxLcUoNzN.png"
+        },
+        {
+          "name": "ICBM sprite",
+          "replace_ids": [
+            103270951298143
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/zoLmbCydNX.png"
+        },
+        {
+          "name": "ICBM bigger blast curse icon",
+          "replace_ids": [
+            116940162234992
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/3b53-pBgNP.png"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "VERITY MART",
+      "expanded": true,
+      "children": [
+        {
+          "name": "AI - plush mart sprite",
+          "replace_ids": [
+            99474124422547
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/LU4J2-qQA9.png"
+        },
+        {
+          "name": "AI - plush mart slide sprite",
+          "replace_ids": [
+            118351735203049
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/UDAWIIGjx3.png"
+        },
+        {
+          "name": "bigger marts curse icon",
+          "replace_ids": [
+            100453138444780
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/PqNimfrhfv.png"
+        },
+        {
+          "name": "mart slide curse icon",
+          "replace_ids": [
+            127211847389158
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/u8bfKpvJ6T.png"
+        },
+        {
+          "name": "mart sprite",
+          "replace_ids": [
+            109941305270403
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/Oto-wyxmFR.png"
+        },
+        {
+          "name": "mart tutorial animation",
+          "replace_ids": [
+            90245165458754
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/9eRaNgsbgI.png"
+        },
+        {
+          "name": "mart icon",
+          "replace_ids": [
+            99059821535426
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/PGp4RiEFsC.png"
+        },
+        {
+          "name": "mart slide sprite",
+          "replace_ids": [
+            127211847389158
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/_BJ-yI-AFM.png"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "VERITY OPERATOR",
+      "expanded": true,
+      "children": [
+        {
+          "name": "operator icon",
+          "replace_ids": [
+            137401605676356
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/PlR3R9laMq.png"
+        },
+        {
+          "name": "operator 1 (peaceful)",
+          "replace_ids": [
+            104632187819937
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/KBWGajFarM.png"
+        },
+        {
+          "name": "operator 2 (netural)",
+          "replace_ids": [
+            113707297395522
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/Yhx9GBV_5I.png"
+        },
+        {
+          "name": "operator 3 (active)",
+          "replace_ids": [
+            122843005116254
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/JrzVgktRyY.png"
+        },
+        {
+          "name": "operator 4 (messed up)",
+          "replace_ids": [
+            140571750770387
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/zY5M9q4aS1.png"
+        },
+        {
+          "name": "voidbound operator 1 (netural)",
+          "replace_ids": [
+            82814174247605
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/pxnyZd8rJT.png"
+        },
+        {
+          "name": "voidbound operator 2 (active)",
+          "replace_ids": [
+            126683265421685
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/tUfjPE9CEo.png"
+        },
+        {
+          "name": "voidbound operator 3 (messed up)",
+          "replace_ids": [
+            131865525179721
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://imglink.cc/cdn/MxYLljSdBe.png"
+        }
+      ]
+    },
+    {
+      "name": "verity spawn",
+      "replace_ids": [
+        109683743467986
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://imglink.cc/cdn/wqlBXEuHQv.png"
+    },
+    {
+      "name": "verity knight indicator",
+      "replace_ids": [
+        101288249770271
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://imglink.cc/cdn/MDJQNd8Y_M.png"
+    }
+  ]
+}
