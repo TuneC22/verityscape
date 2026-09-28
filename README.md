@@ -52,6 +52,7 @@ To actually play the mod you'll need Fleasion - an application for roblox used t
 7. Congrats, you can now play nullscape with verity!
 
 You can change the state of any of the sprites (will they take effect), for this just press **RMB** on a desired profile and press **Disable Profile**
+
 ---
 
 ## Инструкция по установке (rus)
@@ -66,3 +67,9 @@ You can change the state of any of the sprites (will they take effect), for this
 7. Поздравляем, теперь вы можете играть в nullscape с верити!
 
 Вы можете изменить состояние любого спрайта (будет ли он менять оригинальные спрайты или нет). Для этого нажмите **ПКМ** по нужному профилю и выберите **"Disable Profile"**.
+
+---
+
+## Credits
+Verity - by ThatMob
+Nullscape - MartWaterimp and the nullscape dev team
